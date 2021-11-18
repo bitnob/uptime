@@ -24,7 +24,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime
   logoUrl: https://bitnob.com/wp-content/uploads/2021/04/logo-no-back-01.png
-  name: Upptime
+  name: Bitnob
   introTitle: "**Bitnob** Enables You to Automatically Save in Bitcoin with as little as one dollar weekly starting Today. No Hustle, Easy, Secure and Profitable"
   introMessage: This is a status page which uses real-time data from our [GitHub repository](https://github.com/bitnob/uptime). 
   navbar:
