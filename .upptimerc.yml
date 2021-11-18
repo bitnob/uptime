@@ -5,16 +5,19 @@ repo: uptime # The name of this repository
 sites:
   - name: Bitnob 
     url: https://bitnob.com
+    method: GET 
   
-  - name: GET bitnob backend api status 
+  - name: bitnob backend api status 
     url: https://api.bitnob.co/health
     method: GET
 
   - name: bitnob API docs 
     url: https://docs.bitnob.com/docs
+    method: GET
   
   - name: Bitnob for business dashboards
     url: https://app.bitnob.co
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,7 +25,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://bitnob.com/wp-content/uploads/2021/04/logo-no-back-01.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Bitnob** Enables You to Automatically Save in Bitcoin with as little as one dollar weekly starting Today. No Hustle, Easy, Secure and Profitable"
   introMessage: This is a status page which uses real-time data from our [GitHub repository](https://github.com/bitnob/uptime). 
   navbar:
     - title: Status
