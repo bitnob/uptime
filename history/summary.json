@@ -4,19 +4,19 @@
     "url": "https://bitnob.com",
     "icon": "https://favicons.githubusercontent.com/bitnob.com",
     "slug": "bitnob",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 526,
-    "timeWeek": 462,
-    "timeMonth": 630,
-    "timeYear": 606,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 608,
+    "timeDay": 656,
+    "timeWeek": 502,
+    "timeMonth": 635,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2022-01-31": 0
+      "2022-01-31": 17
     }
   },
   {
