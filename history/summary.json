@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/bitnob.com",
     "slug": "bitnob",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 528,
     "timeDay": 415,
     "timeWeek": 353,
     "timeMonth": 435,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2022-02-24": 12,
       "2022-02-17": 23,
       "2022-01-31": 17
     }
@@ -44,18 +43,20 @@
     "url": "https://docs.bitnob.com/docs",
     "icon": "https://favicons.githubusercontent.com/docs.bitnob.com",
     "slug": "bitnob-api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 667,
-    "timeWeek": 435,
-    "timeMonth": 408,
-    "timeYear": 398,
-    "dailyMinutesDown": {}
+    "time": 550,
+    "timeDay": 8222,
+    "timeWeek": 2353,
+    "timeMonth": 889,
+    "timeYear": 550,
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   },
   {
     "name": "Bitnob for business dashboards",
