@@ -6,9 +6,9 @@
     "slug": "bitnob",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 507,
     "timeDay": 478,
@@ -16,7 +16,8 @@
     "timeMonth": 408,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2022-03-03": 0,
+      "2022-03-04": 4,
+      "2022-03-03": 4,
       "2022-02-17": 23,
       "2022-01-31": 17
     }
