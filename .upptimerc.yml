@@ -3,22 +3,41 @@ owner: bitnob # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: Bitnob 
+  - name: Bitnob Website
     url: https://bitnob.com
     method: GET 
   
-  - name: bitnob backend api status 
+  - name: Bitnob API
     url: https://api.bitnob.co/health
     method: GET
 
-  - name: bitnob API docs 
+  - name: Bitnob API docs 
     url: https://docs.bitnob.com/docs
     method: GET
   
-  - name: Bitnob for business dashboards
+  - name: Bitnob Dashboards
     url: https://app.bitnob.co
     method: GET
 
+  - name: Hosted Checkout
+    url: https://checkout.bitnob.co 
+    method: GET 
+
+  - name: Sandbox API 
+    url: https://sandboxapi.bitnob.co/health 
+    method: GET 
+
+  - name: Sandbox Dashboards
+    url: https://sandboxapp.bitnob.co 
+    method: GET 
+
+  - name: Sandbox Hosted Checkout 
+    url: https://sandbox-checkout.bitnob.co/health
+    method: GET 
+
+  - name: Mobile App 
+    url: https://api.bitnob.app
+    method: GET 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
