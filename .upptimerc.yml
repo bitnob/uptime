@@ -49,7 +49,7 @@ status-website:
   # baseUrl: /uptime
   logoUrl: https://bitnob.com/wp-content/uploads/2021/04/logo-no-back-01.png
   favicon: https://bitnob.com/wp-content/uploads/2021/04/logo-no-back-01.png
-  theme: dark
+  theme: night
   cname: status.bitnob.com
   name: Bitnob
   introTitle: "**Bitnob** Enables You to Automatically Save in Bitcoin with as little as one dollar weekly starting Today. No Hustle, Easy, Secure and Profitable"
