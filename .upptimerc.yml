@@ -24,7 +24,7 @@ sites:
     method: GET 
 
   - name: Sandbox API 
-    url: https://sandboxapi.bitnob.co
+    url: https://sandboxapi.bitnob.co/health
     method: GET 
 
   - name: Sandbox Dashboards
