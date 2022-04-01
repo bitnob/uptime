@@ -24,7 +24,7 @@ sites:
     method: GET 
 
   - name: Sandbox API 
-    url: https://sandboxapi.bitnob.co/health 
+    url: https://sandboxapi.bitnob.co
     method: GET 
 
   - name: Sandbox Dashboards
@@ -32,7 +32,7 @@ sites:
     method: GET 
 
   - name: Sandbox Hosted Checkout 
-    url: https://sandbox-checkout.bitnob.co/health
+    url: https://sandbox-checkout.bitnob.co
     method: GET 
 
   - name: Mobile App 
