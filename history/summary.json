@@ -155,19 +155,19 @@
     "url": "https://api.bitnob.app",
     "icon": "https://favicons.githubusercontent.com/api.bitnob.app",
     "slug": "mobile-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 646,
-    "timeWeek": 572,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 536,
+    "timeDay": 596,
+    "timeWeek": 563,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2022-04-16": 0
+      "2022-04-16": 9
     }
   }
 ]
