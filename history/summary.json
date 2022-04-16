@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/bitnob.com",
     "slug": "bitnob-website",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 1872,
     "timeDay": 3765,
     "timeWeek": 2736,
@@ -155,17 +155,19 @@
     "url": "https://api.bitnob.app",
     "icon": "https://favicons.githubusercontent.com/api.bitnob.app",
     "slug": "mobile-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 658,
-    "timeWeek": 563,
-    "timeMonth": 533,
-    "timeYear": 533,
-    "dailyMinutesDown": {}
+    "time": 538,
+    "timeDay": 646,
+    "timeWeek": 572,
+    "timeMonth": 538,
+    "timeYear": 538,
+    "dailyMinutesDown": {
+      "2022-04-16": 0
+    }
   }
 ]
