@@ -13,7 +13,7 @@
     "time": 1210,
     "timeDay": 335,
     "timeWeek": 289,
-    "timeMonth": 1186,
+    "timeMonth": 930,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2022-04-13": 19,
@@ -51,7 +51,7 @@
     "uptimeYear": "99.98%",
     "time": 525,
     "timeDay": 615,
-    "timeWeek": 436,
+    "timeWeek": 394,
     "timeMonth": 512,
     "timeYear": 525,
     "dailyMinutesDown": {
@@ -156,18 +156,19 @@
     "url": "https://api.bitnob.app",
     "icon": "https://favicons.githubusercontent.com/api.bitnob.app",
     "slug": "mobile-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 547,
-    "timeDay": 527,
-    "timeWeek": 494,
-    "timeMonth": 558,
-    "timeYear": 547,
+    "time": 545,
+    "timeDay": 517,
+    "timeWeek": 492,
+    "timeMonth": 556,
+    "timeYear": 545,
     "dailyMinutesDown": {
+      "2022-05-10": 0,
       "2022-05-02": 18
     }
   }
