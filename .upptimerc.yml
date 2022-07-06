@@ -3,19 +3,19 @@ owner: bitnob # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: Bitnob Website
+  - name: Website
     url: https://bitnob.com
     method: GET 
   
-  - name: Bitnob API
+  - name: Business API
     url: https://api.bitnob.co/health
     method: GET
 
-  - name: Bitnob API docs 
+  - name: API Documentation 
     url: https://docs.bitnob.com/docs
     method: GET
   
-  - name: Bitnob Dashboards
+  - name: Dashboard
     url: https://app.bitnob.co
     method: GET
 
@@ -27,7 +27,7 @@ sites:
     url: https://sandboxapi.bitnob.co/health
     method: GET 
 
-  - name: Sandbox Dashboards
+  - name: Sandbox Dashboard
     url: https://sandboxapp.bitnob.co 
     method: GET 
 
@@ -35,9 +35,6 @@ sites:
     url: https://sandbox-checkout.bitnob.co
     method: GET 
 
-  - name: Mobile App 
-    url: https://api.bitnob.app
-    method: GET 
 assignees: # Users to assign downtime issues (optional)
   - NonsoAmadi10
   - ryder247
