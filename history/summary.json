@@ -2,14 +2,14 @@
   {
     "name": "Website",
     "url": "https://bitnob.com",
-    "icon": "https://favicons.githubusercontent.com/bitnob.com",
+    "icon": "https://icons.duckduckgo.com/ip3/bitnob.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.50%",
     "time": 682,
     "timeDay": 676,
     "timeWeek": 545,
@@ -24,7 +24,7 @@
   {
     "name": "Business API",
     "url": "https://api.bitnob.co/health",
-    "icon": "https://favicons.githubusercontent.com/api.bitnob.co",
+    "icon": "https://icons.duckduckgo.com/ip3/api.bitnob.co.ico",
     "slug": "business-api",
     "status": "up",
     "uptime": "99.93%",
@@ -44,11 +44,11 @@
   {
     "name": "API Documentation",
     "url": "https://docs.bitnob.com/docs",
-    "icon": "https://favicons.githubusercontent.com/docs.bitnob.com",
+    "icon": "https://icons.duckduckgo.com/ip3/docs.bitnob.com.ico",
     "slug": "api-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -58,6 +58,7 @@
     "timeMonth": 435,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2023-04-03": 0,
       "2022-08-24": 56,
       "2022-08-23": 37
     }
@@ -65,7 +66,7 @@
   {
     "name": "Dashboard",
     "url": "https://app.bitnob.co",
-    "icon": "https://favicons.githubusercontent.com/app.bitnob.co",
+    "icon": "https://icons.duckduckgo.com/ip3/app.bitnob.co.ico",
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
@@ -83,7 +84,7 @@
   {
     "name": "Hosted Checkout",
     "url": "https://checkout.bitnob.co",
-    "icon": "https://favicons.githubusercontent.com/checkout.bitnob.co",
+    "icon": "https://icons.duckduckgo.com/ip3/checkout.bitnob.co.ico",
     "slug": "hosted-checkout",
     "status": "up",
     "uptime": "100.00%",
@@ -101,7 +102,7 @@
   {
     "name": "Sandbox API",
     "url": "https://sandboxapi.bitnob.co/health",
-    "icon": "https://favicons.githubusercontent.com/sandboxapi.bitnob.co",
+    "icon": "https://icons.duckduckgo.com/ip3/sandboxapi.bitnob.co.ico",
     "slug": "sandbox-api",
     "status": "up",
     "uptime": "99.99%",
@@ -121,7 +122,7 @@
   {
     "name": "Sandbox Dashboard",
     "url": "https://sandboxapp.bitnob.co",
-    "icon": "https://favicons.githubusercontent.com/sandboxapp.bitnob.co",
+    "icon": "https://icons.duckduckgo.com/ip3/sandboxapp.bitnob.co.ico",
     "slug": "sandbox-dashboard",
     "status": "up",
     "uptime": "100.00%",
@@ -139,7 +140,7 @@
   {
     "name": "Sandbox Hosted Checkout",
     "url": "https://sandbox-checkout.bitnob.co",
-    "icon": "https://favicons.githubusercontent.com/sandbox-checkout.bitnob.co",
+    "icon": "https://icons.duckduckgo.com/ip3/sandbox-checkout.bitnob.co.ico",
     "slug": "sandbox-hosted-checkout",
     "status": "up",
     "uptime": "100.00%",
